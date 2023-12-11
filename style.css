@@ -1,0 +1,196 @@
+body{
+    overflow-x: hidden;
+}
+
+.nav{text-decoration: none;
+    font-family: 'Pangolin', cursive;
+    margin-left: 3%;
+}
+
+.head .nav{
+    color: black;
+}
+
+.banner{
+    width: 100%;
+    height: 50vh 
+}
+
+.container{
+    text-align: center;
+}
+.myprofile{
+    border-radius: 100%;
+    margin-top: -10%;
+}
+.fb{
+    border-radius: 50%;
+}
+.instagram{
+    border-radius: 50% ;
+}
+.twitter{
+    border-radius: 50% ;
+    
+}
+.contain{
+    width: 100%;
+    background-image: url('./images/section-bg.jpg');
+    height: 1100px;
+    background-size: cover;
+    color: white;
+
+}
+.contain span{
+    color: green;
+}
+
+.contain h2, p{
+    text-align: center;
+}
+
+
+.overlay {
+    background-color: rgba(0, 0, 255, 0.3);
+    height: 1100px;
+}
+
+/* .google{
+    
+}
+.logo{
+    background-color: rgb(26, 7, 234);
+    /* width: 50%; */
+    /* height: 100vh;
+    border: none;
+    border-radius: 10%;
+    box-sizing: 20%;
+
+}
+.profile1{
+    margin-left: 90px;
+}
+.logo2{
+    background-color: rgb(26, 7, 234);
+    width: 50%;
+    height: 100vh;
+    border: none;
+    border-radius: 10%;
+    box-sizing: 20%;
+
+}
+.profile2{
+    margin-left: 90px;
+} */
+ */
+
+.experience-section {
+    /* background-color: blue; */
+    margin-top: -90%;
+}
+
+.experience-container {
+    display: flex;
+    
+}
+
+.work-container {
+    display: flex;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.421);
+    border-radius: 20px;
+    width: 80%;
+    background-color: white;
+    margin: 10px;
+    color: black;
+    padding:2% ;
+}
+
+
+.experience-section h2 {
+    text-align: center;
+}
+.experience-section{
+    background-color: silver;
+    height: 600px;
+}
+.download{
+    width: auto;
+    margin-top: 10%;
+    
+}
+
+  .work-container h3,h4,h5{
+    margin-left: 10%;
+  }  
+  
+.download button{
+    margin-left: 47%;
+    background-color: green;
+    border: none;
+    border-radius: 30px;
+    padding: 9px;
+    cursor: pointer;
+}
+.portfolio img{
+   width: 30%;
+
+   
+}
+.portfolio h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+.contact-container{
+    display: flex;
+
+}
+
+.f{
+    background-attachment: ;
+}
+
+.contact-container .label{
+    margin-left: 5%;
+}
+.contact h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.label .form-input{
+    border-color: green;
+    /* width: 200%; */
+    padding: 10px;
+    width: 190%;
+}
+.label button{
+    background-color: green;
+    border-radius: 40%;
+    padding: 4%;
+    border: none;
+}
+
+.table{
+    height:300px ;
+    background-image: url('./images/section-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-overlay{
+    background-color: rgba(0, 0, 255, 0.3);
+    height: 300px;
+}
+
+.table table{
+    margin-left: 30%;
+    color: white;
+   
+}
+
+.table h1{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
